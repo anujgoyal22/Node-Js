@@ -1,1 +1,7 @@
-Customer: Anuj Goyal, Item: Inverter, Status: OK
+Customer: Anuj Goyal, Item: Inverter, Status: OKItem: android tv | Issue: Circuit Check | Cost: 500
+Item: android tv | Issue: Circuit Check | Cost: 500
+Item: Inverter | Issue: Output voltage low | Cost: 450
+Item: Inverter | Issue: Output voltage low | Cost: 450
+Item: Inverter | Issue: Output voltage low | Cost: 450
+Item: Inverter | Issue: Output voltage low | Cost: 450
+Item: motor | Issue: Circuit Check | Cost: 500
