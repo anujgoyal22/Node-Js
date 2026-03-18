@@ -1,0 +1,1 @@
+Customer: Anuj Goyal, Item: Inverter, Status: OK
